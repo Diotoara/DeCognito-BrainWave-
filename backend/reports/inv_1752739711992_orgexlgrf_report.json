@@ -1,0 +1,115 @@
+{
+  "investigation_id": "inv_1752739711992_orgexlgrf",
+  "generated_at": "2025-07-17T13:39:22.060109",
+  "platform_results": {
+    "news": {
+      "platform": "news",
+      "query": "Osama bin Laden",
+      "articles": [
+        {
+          "title": "Did Trump have the legal authority to strike Iran?",
+          "description": "Some lawmakers have called Trump's strikes on Iran \"unconstitutional\" - so did he have the authority to order them?",
+          "url": "https://www.bbc.com/news/articles/c4gkw04yze1o",
+          "source": "BBC News",
+          "published_at": "2025-06-23T21:50:49Z",
+          "author": null,
+          "method": "news_api"
+        },
+        {
+          "title": "How a tied shoelace will mark a turning point in US history",
+          "description": "Deep in one of America’s darkest hours, President George W. Bush warned that while the war on terror was started by others on 9/11, it would end “at an hour ...",
+          "url": "https://www.cnn.com/2025/07/09/politics/tsa-shoes-911-war-on-terror-trump",
+          "source": "CNN",
+          "published_at": "2025-07-09T04:00:24Z",
+          "author": "Analysis by Stephen Collinson, CNN",
+          "method": "news_api"
+        },
+        {
+          "title": "Why America's giant bunker-busting bombs may have failed to reach their target",
+          "description": "Reaching Iran's most fortified nuclear enrichment site is a challenge, even for the world's biggest conventional weapons.",
+          "url": "https://www.npr.org/2025/06/25/nx-s1-5444307/did-america-bunker-busting-bombs-fail-reach-iran-nuclear-target",
+          "source": "NPR",
+          "published_at": "2025-06-25T09:00:00Z",
+          "author": "Geoff Brumfiel",
+          "method": "news_api"
+        },
+        {
+          "title": "Why Democrats Can’t Get On the Same Page on Trump’s Iran Strike",
+          "description": "Prominent Democrats including AOC, Chuck Schumer, and John Fetterman are at odds over the correct response to Trump's Iran strike. Here's why",
+          "url": "https://time.com/7296889/iran-attack-democrat-aoc-trump/",
+          "source": "Time",
+          "published_at": "2025-06-23T19:07:27Z",
+          "author": "Philip Elliott",
+          "method": "news_api"
+        },
+        {
+          "title": "A year after Butler: Remembering a fallen hero, reckoning with security breakdown",
+          "description": "The attempted assassination of Donald Trump in Butler, Pennsylvania, marked a pivotal and deeply troubling moment for the nation.",
+          "url": "https://abcnews.go.com/US/year-after-trump-rally-shooting-remembering-fallen-hero/story?id=123707071",
+          "source": "ABC News",
+          "published_at": "2025-07-13T10:05:26Z",
+          "author": "Donald J. Mihalek",
+          "method": "news_api"
+        },
+        {
+          "title": "A Combs trial glossary: ex-PA tells jury what 'SEAL Team Six' and 'Gucci bag active' mean in Diddy-speak",
+          "description": "What does \"Gucci-bag active\" mean? How about \"flower,\" \"tree,\" and \"Sunset Sherbet?\" A former personal assistant defined some key Combs-world terms.",
+          "url": "https://www.businessinsider.com/combs-trial-ex-pa-gives-jury-lesson-in-diddy-speak-2025-6",
+          "source": "Business Insider",
+          "published_at": "2025-06-21T01:58:16Z",
+          "author": "Laura Italiano",
+          "method": "news_api"
+        },
+        {
+          "title": "Keeping Politics Out of the Military",
+          "description": "U.S. national security depends on citizens’ trust in our armed forces. We lose that if we turn soldiers into law-enforcement officers.",
+          "url": "https://www.theatlantic.com/ideas/archive/2025/06/panetta-politics-military/683334/",
+          "source": "The Atlantic",
+          "published_at": "2025-06-27T11:30:00Z",
+          "author": "Leon E. Panetta",
+          "method": "news_api"
+        },
+        {
+          "title": "Kathryn Bigelow’s ‘A House Of Dynamite’ To Debut In Theaters & Netflix This Fall",
+          "description": "A House of Dynamite, the next movie from The Hurt Locker Oscar winner Kathryn Bigelow, will hit theaters this October and stream on Netflix on Oct. 24. The movie penned by Noah Oppenheim is billed as follows: “When a single, unattributed missile is launched a…",
+          "url": "http://deadline.com/2025/06/netflix-kathryn-bigelow-a-house-of-dynamite-release-date-1236436609/",
+          "source": "Deadline",
+          "published_at": "2025-06-18T15:12:14Z",
+          "author": "anthonypauldalessandro",
+          "method": "news_api"
+        },
+        {
+          "title": "‘Simpsons’ Fan Exposes This Classic Side Character As the Daughter of A ‘CIA Spook’",
+          "description": "‘The Simpsons’ may have spilled some state secrets back in 1992",
+          "url": "https://www.cracked.com/article_47248_simpsons-fan-exposes-this-classic-side-character-as-the-daughter-of-a-cia-spook.html",
+          "source": "Cracked.com",
+          "published_at": "2025-07-07T20:30:00Z",
+          "author": "Keegan Kelly",
+          "method": "news_api"
+        },
+        {
+          "title": "Sirens Dominates Nielsen Streaming Top 10 Chart in Debut",
+          "description": "Netflix’s Sirens dominated Nielsen’s U.S. ranking of streaming originals (as well as the Overall Top 10) for the week of May 19, by amassing nearly 1.4 billion minutes viewed for its five episodes. Nielsen notes that the dark comedy attracted a largely Millen…",
+          "url": "https://tvline.com/ratings/sirens-viewers-nielsen-streaming-top-10-ranking-may-19-1235465743/",
+          "source": "TVLine",
+          "published_at": "2025-06-20T15:54:45Z",
+          "author": "Matt Webb Mitovich",
+          "method": "news_api"
+        }
+      ],
+      "total_found": 10,
+      "scraped_at": "2025-07-17T13:39:22.055672",
+      "sources_checked": 8
+    }
+  },
+  "ai_analysis": {
+    "warning": "No content available for AI analysis"
+  },
+  "summary": {
+    "platforms_analyzed": 1,
+    "total_content_items": 0,
+    "ai_models_used": [
+      "warning"
+    ]
+  }
+}

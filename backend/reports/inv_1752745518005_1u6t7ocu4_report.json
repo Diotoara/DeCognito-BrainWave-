@@ -1,0 +1,134 @@
+{
+  "investigation_id": "inv_1752745518005_1u6t7ocu4",
+  "generated_at": "2025-07-17T15:16:55.748529",
+  "platform_results": {
+    "twitter": {
+      "platform": "twitter",
+      "user_info": {
+        "username": "BarackObama",
+        "platform": "twitter/x",
+        "profile_url": "https://x.com/BarackObama",
+        "scraped_method": "fallback"
+      },
+      "tweets": [
+        {
+          "id": "rss_0",
+          "content": "Bridge returned error 0! (20286)",
+          "date": "2025-07-17T15:16:46.653792",
+          "source": "rss_bridge",
+          "username": "BarackObama"
+        }
+      ],
+      "total_tweets": 1,
+      "scraped_at": "2025-07-17T15:16:46.814932",
+      "success": true
+    }
+  },
+  "ai_analysis": {
+    "sentiment": {
+      "total_texts": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "error_count": 0,
+      "positive_ratio": 0.0,
+      "negative_ratio": 1.0,
+      "avg_positive_score": 0,
+      "avg_negative_score": 0.9969273209571838,
+      "overall_sentiment": "NEGATIVE",
+      "sample_results": [
+        {
+          "label": "NEGATIVE",
+          "score": 0.9969273209571838
+        }
+      ],
+      "success_rate": 1.0
+    },
+    "entities": {
+      "total_entities": 2,
+      "entity_types": {
+        "CARDINAL": [
+          {
+            "text": "0",
+            "label": "CARDINAL",
+            "start": 22,
+            "end": 23,
+            "confidence": 1.0
+          }
+        ],
+        "DATE": [
+          {
+            "text": "20286",
+            "label": "DATE",
+            "start": 26,
+            "end": 31,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "entity_counts": {
+        "CARDINAL:0": 1,
+        "DATE:20286": 1
+      },
+      "most_common_entities": [
+        [
+          "CARDINAL:0",
+          1
+        ],
+        [
+          "DATE:20286",
+          1
+        ]
+      ],
+      "unique_entities": 2,
+      "detailed_entities": [
+        {
+          "text": "0",
+          "label": "CARDINAL",
+          "start": 22,
+          "end": 23,
+          "confidence": 1.0
+        },
+        {
+          "text": "20286",
+          "label": "DATE",
+          "start": 26,
+          "end": 31,
+          "confidence": 1.0
+        }
+      ]
+    },
+    "toxicity": {
+      "total_analyzed": 1,
+      "toxic_count": 1,
+      "non_toxic_count": 0,
+      "toxicity_percentage": 100.0,
+      "risk_level": "HIGH",
+      "high_risk_content": [],
+      "detailed_results": [
+        {
+          "label": "toxic",
+          "score": 0.000845130649395287
+        }
+      ]
+    },
+    "summary": {
+      "error": "Gemini model not available",
+      "summary": "AI summarization unavailable"
+    },
+    "profile_analysis": {
+      "error": "Gemini model not available",
+      "analysis": "AI analysis unavailable"
+    }
+  },
+  "summary": {
+    "platforms_analyzed": 1,
+    "total_content_items": 1,
+    "ai_models_used": [
+      "sentiment",
+      "entities",
+      "toxicity",
+      "summary",
+      "profile_analysis"
+    ]
+  }
+}

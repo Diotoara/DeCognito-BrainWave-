@@ -1,0 +1,129 @@
+{
+  "investigation_id": "inv_1752774522456_xgv0ztbae",
+  "generated_at": "2025-07-17T23:22:33.356482",
+  "platform_results": {
+    "twitter": {
+      "platform": "twitter",
+      "user_info": {
+        "username": "elonmusk",
+        "platform": "twitter/x",
+        "profile_url": "https://x.com/elonmusk",
+        "scraped_method": "fallback",
+        "display_name": "Something went wrong, but don’t fret — it’s not your fault."
+      },
+      "tweets": [],
+      "total_tweets": 0,
+      "scraped_at": "2025-07-17T23:20:50.107156",
+      "success": false
+    },
+    "news": {
+      "platform": "news",
+      "query": "elonmusk",
+      "articles": [
+        {
+          "title": "Trump Tells Musk to “Head Back Home to South Africa” in Escalating Feud",
+          "description": "After Musk threatened to form a new political party, the president fired back with a nativist attack, accusing the billionaire of being a subsidy addict and threatening to have his own companies investigated.",
+          "url": "https://gizmodo.com/trump-tells-musk-to-head-back-home-to-south-africa-in-escalating-feud-2000622639",
+          "source": "Gizmodo.com",
+          "published_at": "2025-07-01T10:54:52Z",
+          "author": "Luc Olinga",
+          "method": "news_api"
+        },
+        {
+          "title": "Elon Musk Leaves Trump and MAGA with a Bang And a Smile",
+          "description": "The world's richest man blew up online MAGA with his new \"America Party\" and seemed to love every minute of the chaos.",
+          "url": "https://gizmodo.com/elon-musk-leaves-trump-and-maga-with-a-bang-and-a-smile-2000624469",
+          "source": "Gizmodo.com",
+          "published_at": "2025-07-05T23:33:22Z",
+          "author": "Luc Olinga",
+          "method": "news_api"
+        },
+        {
+          "title": "Elon Musk Has a New Plan to Win Back MAGA",
+          "description": "After apologizing to Trump, the Tesla CEO returns to his favorite battleground: attacking liberals and “wokeism,\" as he tries to repair his image among conservative hardliners.",
+          "url": "https://gizmodo.com/elon-musk-has-a-new-plan-to-win-back-maga-2000618685",
+          "source": "Gizmodo.com",
+          "published_at": "2025-06-21T22:54:49Z",
+          "author": "Luc Olinga",
+          "method": "news_api"
+        },
+        {
+          "title": "Trump Tries to Bury Epstein Scandal, but Elon Musk Won’t Let Him",
+          "description": "The world's richest man challenged the president's attempt to bury the Jeffrey Epstein scandal, framing the issue as a moral crisis that transcends politics.",
+          "url": "https://gizmodo.com/trump-tries-to-bury-epstein-scandal-but-elon-musk-wont-let-him-2000628672",
+          "source": "Gizmodo.com",
+          "published_at": "2025-07-13T13:48:47Z",
+          "author": "Luc Olinga",
+          "method": "news_api"
+        },
+        {
+          "title": "As Sales Drop, Tesla Makes a Big Gamble on India",
+          "description": "With its sales cratering in the West, the electric vehicle giant is making a high-stakes pivot to the world's third-largest auto market.",
+          "url": "https://gizmodo.com/as-sales-drop-tesla-makes-a-big-gamble-on-india-2000628824",
+          "source": "Gizmodo.com",
+          "published_at": "2025-07-14T14:19:43Z",
+          "author": "Luc Olinga",
+          "method": "news_api"
+        },
+        {
+          "title": "Trump Was Just Asked If He’ll Deport Elon Musk",
+          "description": "After Musk attacked his signature spending bill, the U.S. president threatened to turn Musk's own government agency, DOGE, into a \"monster\" that would \"go back and eat\" him.",
+          "url": "https://gizmodo.com/trump-was-just-asked-if-hell-deport-elon-musk-2000622737",
+          "source": "Gizmodo.com",
+          "published_at": "2025-07-01T14:08:19Z",
+          "author": "Luc Olinga",
+          "method": "news_api"
+        },
+        {
+          "title": "Elon Musk Is Back at Tesla, but the Magic Might Be Gone",
+          "description": "After a political detour that angered customers and tanked profits, the billionaire CEO returns to a Tesla in crisis.",
+          "url": "https://gizmodo.com/elon-musk-is-back-at-tesla-but-the-magic-might-be-gone-2000622074",
+          "source": "Gizmodo.com",
+          "published_at": "2025-06-30T15:49:29Z",
+          "author": "Luc Olinga",
+          "method": "news_api"
+        },
+        {
+          "title": "Elon Musk Turns His AI Into a Flirty Anime Girlfriend",
+          "description": "From Hitler apologist to anime waifu: Musk's xAI debuts \"Companions\" in a whiplash-inducing pivot.",
+          "url": "https://gizmodo.com/elon-musk-turns-his-ai-into-a-flirty-anime-girlfriend-2000629273",
+          "source": "Gizmodo.com",
+          "published_at": "2025-07-15T11:32:54Z",
+          "author": "Luc Olinga",
+          "method": "news_api"
+        },
+        {
+          "title": "Elon Musk’s Trillion-Dollar Robotaxi Gamble Is Here",
+          "description": "After years of hype, Tesla’s self-driving taxi service is finally live.",
+          "url": "https://gizmodo.com/elon-musks-trillion-dollar-robotaxi-gamble-is-here-2000618771",
+          "source": "Gizmodo.com",
+          "published_at": "2025-06-22T22:37:29Z",
+          "author": "Luc Olinga",
+          "method": "news_api"
+        },
+        {
+          "title": "Elon Musk Rekindles Trump Criticism, Attacks ‘Big, Beautiful Bill’",
+          "description": "He's mad about adding to the debt but seems fine with kicking people off of healthcare.",
+          "url": "https://gizmodo.com/elon-musk-rekindles-trump-criticism-attacks-big-beautiful-bill-2000624326",
+          "source": "Gizmodo.com",
+          "published_at": "2025-07-04T18:43:16Z",
+          "author": "AJ Dellinger",
+          "method": "news_api"
+        }
+      ],
+      "total_found": 10,
+      "scraped_at": "2025-07-17T23:22:33.329796",
+      "sources_checked": 8
+    }
+  },
+  "ai_analysis": {
+    "warning": "No content available for AI analysis"
+  },
+  "summary": {
+    "platforms_analyzed": 2,
+    "total_content_items": 0,
+    "ai_models_used": [
+      "warning"
+    ]
+  }
+}

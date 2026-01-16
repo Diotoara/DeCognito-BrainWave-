@@ -1,0 +1,28 @@
+{
+  "investigation_id": "inv_1752738331990_lev9ar8xr",
+  "generated_at": "2025-07-17T13:18:44.851893",
+  "platform_results": {
+    "twitter": {
+      "platform": "twitter",
+      "user_info": {
+        "username": "elonmusk",
+        "platform": "twitter/x",
+        "scraped_method": "fallback",
+        "profile_url": "https://x.com/elonmusk"
+      },
+      "tweets": [],
+      "total_tweets": 0,
+      "scraped_at": "2025-07-17T13:18:38.488483"
+    }
+  },
+  "ai_analysis": {
+    "warning": "No content available for AI analysis"
+  },
+  "summary": {
+    "platforms_analyzed": 1,
+    "total_content_items": 0,
+    "ai_models_used": [
+      "warning"
+    ]
+  }
+}

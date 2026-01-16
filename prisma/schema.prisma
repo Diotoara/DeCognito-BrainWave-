@@ -1,0 +1,60 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  name      String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  
+  investigations Investigation[]
+  
+  @@map("users")
+}
+
+model Investigation {
+  id          String   @id @default(cuid())
+  userId      String
+  targetUser  String
+  platform    String
+  status      InvestigationStatus @default(PENDING)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  completedAt DateTime?
+  
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  results     Result[]
+  
+  @@map("investigations")
+}
+
+model Result {
+  id              String   @id @default(cuid())
+  investigationId String
+  platform        String
+  dataType        String
+  content         Json
+  sentiment       Json?
+  entities        Json?
+  toxicity        Json?
+  summary         String?
+  createdAt       DateTime @default(now())
+  
+  investigation   Investigation @relation(fields: [investigationId], references: [id], onDelete: Cascade)
+  
+  @@map("results")
+}
+
+enum InvestigationStatus {
+  PENDING
+  IN_PROGRESS
+  COMPLETED
+  FAILED
+}

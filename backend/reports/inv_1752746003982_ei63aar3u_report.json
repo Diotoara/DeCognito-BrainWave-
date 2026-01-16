@@ -1,0 +1,119 @@
+{
+  "investigation_id": "inv_1752746003982_ei63aar3u",
+  "generated_at": "2025-07-17T15:24:16.324747",
+  "platform_results": {
+    "news": {
+      "platform": "news",
+      "query": "virat kohli",
+      "articles": [
+        {
+          "title": "Gill & Jaiswal tons punish England toss decision",
+          "description": "India captain Shubman Gill and opener Yashasvi Jaiswal hit sublime centuries as England toil on day one of the first Test at Headingley.",
+          "url": "https://www.bbc.com/sport/cricket/articles/cpvjzj3gp2xo",
+          "source": "BBC News",
+          "published_at": "2025-06-20T17:35:46Z",
+          "author": "Stephan Shemilt",
+          "method": "news_api"
+        },
+        {
+          "title": "Shubman Gill Must Score Runs In England To Pass Leadership Test",
+          "description": "Shubman Gill is the new prince of Indian cricket as his team take on England in a five-match Test series. It might be the making of him.",
+          "url": "https://www.forbes.com/sites/timellis/2025/06/19/shubman-gill-must-score-runs-in-england-to-pass-leadership-test/",
+          "source": "Forbes",
+          "published_at": "2025-06-19T22:48:04Z",
+          "author": "Tim Ellis, Contributor, \n Tim Ellis, Contributor\n https://www.forbes.com/sites/timellis/",
+          "method": "news_api"
+        },
+        {
+          "title": "Shubman Gill Must Score Runs In England To Pass Leadership Test",
+          "description": "Shubman Gill is Indian cricket's new Test captain for the tour of England. Gill has a modest Test record overseas. He must lead from the front.",
+          "url": "https://www.forbes.com/sites/timellis/2025/06/19/shubman-gill-must-score-runs-in-england-to-pass-leadership-test-1/",
+          "source": "Forbes",
+          "published_at": "2025-06-19T23:29:47Z",
+          "author": "Tim Ellis, Contributor, \n Tim Ellis, Contributor\n https://www.forbes.com/sites/timellis/",
+          "method": "news_api"
+        },
+        {
+          "title": "Gill and Jaiswal help India hammer England on opening day of first Test",
+          "description": "Yashasvi Jaiswal and captain Shubman Gill both score centuries for India on the first day of their Test tour of England.",
+          "url": "https://www.aljazeera.com/sports/2025/6/20/gill-and-jaiswal-help-india-hammer-england-on-opening-day-of-first-test",
+          "source": "Al Jazeera English",
+          "published_at": "2025-06-20T20:01:37Z",
+          "author": "Al Jazeera",
+          "method": "news_api"
+        },
+        {
+          "title": "India Start New Era Without Kohli And Rohit Against England",
+          "description": "Shubman Gill will be in the spotlight as a new-look India, without star batsmen Virat Kohli and Rohit Sharma, bid to end their 18-year wait for a Test series win in England.",
+          "url": "https://www.ibtimes.com/india-start-new-era-without-kohli-rohit-against-england-3776180",
+          "source": "International Business Times",
+          "published_at": "2025-06-19T03:33:21Z",
+          "author": "Julian Guyer",
+          "method": "news_api"
+        },
+        {
+          "title": "Gill's captaincy a blend of Rohit's ice and Kohli's fire, says Buttler",
+          "description": "Shubman Gill's style of captaincy blends the fire of Virat Kohli with the ice-cool composure of Rohit Sharma but India's new test skipper will carve out his own identity as he leads them in the upcoming test series in England, Jos Buttler said on Tuesday.Indi…",
+          "url": "https://www.channelnewsasia.com/sport/gills-captaincy-blend-rohits-ice-and-kohlis-fire-says-buttler-5186886",
+          "source": "CNA",
+          "published_at": "2025-06-17T08:51:29Z",
+          "author": null,
+          "method": "news_api"
+        },
+        {
+          "title": "India future already looking bright as new generation step up to fill Kohli and Sharma void",
+          "description": "LEEDS, England :The retirement of two Indian batting icons in less than a year piled the pressure on the next generation to step up, and new skipper Shubman Gill and opener Yashasvi Jaiswal look ready to fill the void left by Virat Kohli and Rohit Sharma. Los…",
+          "url": "https://www.channelnewsasia.com/sport/india-future-already-looking-bright-new-generation-step-up-fill-kohli-and-sharma-void-5195001",
+          "source": "CNA",
+          "published_at": "2025-06-20T20:40:37Z",
+          "author": null,
+          "method": "news_api"
+        },
+        {
+          "title": "Gill & Jaiswal show India's future is already here",
+          "description": "Doubts about India's future after the retirements of Virat Kohli and Rohit Sharma are laid to rest by Shubman Gill and Yashavi Jaiswal's centuries on day one of the first Test against England.",
+          "url": "https://www.bbc.com/sport/cricket/articles/ce83dz0v66mo",
+          "source": "BBC News",
+          "published_at": "2025-06-20T20:05:28Z",
+          "author": "Matthew Henry",
+          "method": "news_api"
+        },
+        {
+          "title": "India's Gill keen to focus on batting not captaincy pressure ahead of England series",
+          "description": "Newly-appointed India test skipper Shubman Gill said he wants to concentrate on his batting rather than the pressure of captaincy as his side prepares to start a new era following the retirements of Virat Kohli and Rohit Sharma.Kohli and Rohit, former captain…",
+          "url": "https://www.channelnewsasia.com/sport/indias-gill-keen-focus-batting-not-captaincy-pressure-ahead-england-series-5192781",
+          "source": "CNA",
+          "published_at": "2025-06-19T17:58:01Z",
+          "author": null,
+          "method": "news_api"
+        }
+      ],
+      "total_found": 9,
+      "scraped_at": "2025-07-17T15:23:55.303927",
+      "sources_checked": 8
+    },
+    "instagram": {
+      "platform": "instagram",
+      "user_info": {
+        "username": "virat kohli",
+        "method": "html_parsing",
+        "full_name": "Instagram"
+      },
+      "posts": [],
+      "scraped_at": "2025-07-17T15:24:16.171983",
+      "total_items": 0,
+      "method": "html_parsing",
+      "note": "Limited data due to Instagram restrictions"
+    }
+  },
+  "ai_analysis": {
+    "warning": "No content available for AI analysis"
+  },
+  "summary": {
+    "platforms_analyzed": 2,
+    "total_content_items": 0,
+    "ai_models_used": [
+      "warning"
+    ]
+  }
+}

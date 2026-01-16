@@ -1,0 +1,787 @@
+{
+  "investigation_id": "inv_1752736715790_kmdn0y491",
+  "generated_at": "2025-07-17T12:48:43.344125",
+  "platform_results": {
+    "github": {
+      "platform": "github",
+      "user_info": {
+        "username": "uzumaki-ak",
+        "name": "Anikesh kumar ",
+        "bio": "Man in search of great innovations ...",
+        "company": null,
+        "location": "N.Delhi",
+        "email": "anikydv38@gmail.com",
+        "blog": "https://portfolio-su1c-one.vercel.app/",
+        "followers": 0,
+        "following": 0,
+        "public_repos": 36,
+        "created_at": "2024-05-09T18:48:52",
+        "updated_at": "2025-07-06T08:20:57",
+        "method": "api"
+      },
+      "repositories": [
+        {
+          "name": "-Reframe",
+          "description": "community where people discuss what they used to think before VS what they think now A modern web application for documenting and sharing your philosophical evolution. Track how your beliefs, worldviews, and perspectives have transformed over time, and engage with a community of fellow thinkers.",
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-05-27T10:41:58",
+          "updated_at": "2025-06-28T04:04:58",
+          "url": "https://github.com/uzumaki-ak/-Reframe",
+          "size": 218,
+          "default_branch": "main"
+        },
+        {
+          "name": "agentic-ai",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-07-08T10:17:20",
+          "updated_at": "2025-07-09T09:20:08",
+          "url": "https://github.com/uzumaki-ak/agentic-ai",
+          "size": 12971,
+          "default_branch": "main"
+        },
+        {
+          "name": "assignmnt-moksh",
+          "description": "chat-app-assignment-moksh",
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-06-05T09:26:01",
+          "updated_at": "2025-07-06T09:25:49",
+          "url": "https://github.com/uzumaki-ak/assignmnt-moksh",
+          "size": 72,
+          "default_branch": "main"
+        },
+        {
+          "name": "Avinya-AstraX",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-04-05T06:54:32",
+          "updated_at": "2025-04-08T07:29:26",
+          "url": "https://github.com/uzumaki-ak/Avinya-AstraX",
+          "size": 8734,
+          "default_branch": "main"
+        },
+        {
+          "name": "blogss",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-02-17T21:32:19",
+          "updated_at": "2025-02-18T09:51:00",
+          "url": "https://github.com/uzumaki-ak/blogss",
+          "size": 2296,
+          "default_branch": "main"
+        },
+        {
+          "name": "bumblebees--school",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-07-08T18:41:01",
+          "updated_at": "2025-07-08T18:44:26",
+          "url": "https://github.com/uzumaki-ak/bumblebees--school",
+          "size": 2378,
+          "default_branch": "main"
+        },
+        {
+          "name": "calculator-bye-meh",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2024-05-15T19:45:21",
+          "updated_at": "2024-12-24T15:21:17",
+          "url": "https://github.com/uzumaki-ak/calculator-bye-meh",
+          "size": 4,
+          "default_branch": "main"
+        },
+        {
+          "name": "carbonfootprintCalc",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2024-12-26T18:49:47",
+          "updated_at": "2024-12-26T19:24:34",
+          "url": "https://github.com/uzumaki-ak/carbonfootprintCalc",
+          "size": 3570,
+          "default_branch": "master"
+        },
+        {
+          "name": "chat-app-socket-",
+          "description": "making simple chat app using websocket with next js typescipt tailwind",
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-05-13T07:24:26",
+          "updated_at": "2025-05-13T07:26:17",
+          "url": "https://github.com/uzumaki-ak/chat-app-socket-",
+          "size": 71,
+          "default_branch": "main"
+        },
+        {
+          "name": "dharika-assign",
+          "description": "dharika-assign",
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-07-06T18:26:37",
+          "updated_at": "2025-07-06T18:41:07",
+          "url": "https://github.com/uzumaki-ak/dharika-assign",
+          "size": 103,
+          "default_branch": "main"
+        },
+        {
+          "name": "digisys-assign",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-06-20T19:23:49",
+          "updated_at": "2025-07-05T07:50:41",
+          "url": "https://github.com/uzumaki-ak/digisys-assign",
+          "size": 1137,
+          "default_branch": "main"
+        },
+        {
+          "name": "Drishti-2",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-07-09T19:50:55",
+          "updated_at": "2025-07-09T19:50:55",
+          "url": "https://github.com/uzumaki-ak/Drishti-2",
+          "size": 11200,
+          "default_branch": "main"
+        },
+        {
+          "name": "family-vaults",
+          "description": "Legacy – Family Vault is a full-stack web application designed for families to store, organize, and share precious media like photos, videos, and audio memories in a shared digital vault.",
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-06-23T13:37:54",
+          "updated_at": "2025-07-12T11:55:53",
+          "url": "https://github.com/uzumaki-ak/family-vaults",
+          "size": 1474,
+          "default_branch": "main"
+        },
+        {
+          "name": "fin-genies",
+          "description": "Gaps in the Finance Industry & What Major Players Lack(How are we different from our competitors) The finance industry in India is fragmented, with companies specializing in different aspects (credit cards, investments, loans, or budgeting). However, no single player provides a comprehensive, AI-driven financial ecosystem that automates personal fi",
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-04-27T13:01:43",
+          "updated_at": "2025-07-05T08:25:13",
+          "url": "https://github.com/uzumaki-ak/fin-genies",
+          "size": 1309,
+          "default_branch": "main"
+        },
+        {
+          "name": "flash-chat",
+          "description": "A revolutionary WhatsApp messaging tool built with React, JavaScript, Bootstrap, HTML, and CSS. Flash Chat enables users to chat with any 10-digit number without saving it as a contact. Plus, generate a scannable QR code for effortless chatting.",
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2024-12-26T19:29:37",
+          "updated_at": "2025-07-05T08:21:15",
+          "url": "https://github.com/uzumaki-ak/flash-chat",
+          "size": 190,
+          "default_branch": "master"
+        },
+        {
+          "name": "fronted-for-traffic",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-03-20T21:27:50",
+          "updated_at": "2025-03-20T21:29:07",
+          "url": "https://github.com/uzumaki-ak/fronted-for-traffic",
+          "size": 281,
+          "default_branch": "main"
+        },
+        {
+          "name": "graphQL",
+          "description": "learning graph ql to know dis adv of rest api",
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-05-24T06:19:56",
+          "updated_at": "2025-05-24T06:26:15",
+          "url": "https://github.com/uzumaki-ak/graphQL",
+          "size": 19,
+          "default_branch": "main"
+        },
+        {
+          "name": "GreenMind",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2024-09-24T11:47:25",
+          "updated_at": "2024-09-24T11:47:25",
+          "url": "https://github.com/uzumaki-ak/GreenMind",
+          "size": 1872,
+          "default_branch": "master"
+        },
+        {
+          "name": "H4B-main-ak",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-05-03T10:40:53",
+          "updated_at": "2025-05-03T10:40:53",
+          "url": "https://github.com/uzumaki-ak/H4B-main-ak",
+          "size": 120312,
+          "default_branch": "main"
+        },
+        {
+          "name": "hackemnon-robotics",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-04-26T06:27:35",
+          "updated_at": "2025-04-26T06:34:34",
+          "url": "https://github.com/uzumaki-ak/hackemnon-robotics",
+          "size": 146,
+          "default_branch": "main"
+        },
+        {
+          "name": "healthSync",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-03-16T12:50:22",
+          "updated_at": "2025-03-16T12:51:25",
+          "url": "https://github.com/uzumaki-ak/healthSync",
+          "size": 412,
+          "default_branch": "main"
+        },
+        {
+          "name": "kaamly",
+          "description": "Kaamly is a task automation app that takes natural language instructions like “Book a salon tomorrow at 4 PM near CP” and handles everything — understanding intent, finding a provider, making a real phone call, scheduling the appointment, and emailing you a calendar invite.",
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-06-24T16:53:41",
+          "updated_at": "2025-06-27T09:00:27",
+          "url": "https://github.com/uzumaki-ak/kaamly",
+          "size": 865,
+          "default_branch": "main"
+        },
+        {
+          "name": "learning-websocket",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-05-12T12:00:26",
+          "updated_at": "2025-05-12T12:08:07",
+          "url": "https://github.com/uzumaki-ak/learning-websocket",
+          "size": 36,
+          "default_branch": "main"
+        },
+        {
+          "name": "market-agency",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-02-15T13:18:32",
+          "updated_at": "2025-02-15T13:20:13",
+          "url": "https://github.com/uzumaki-ak/market-agency",
+          "size": 5579,
+          "default_branch": "main"
+        },
+        {
+          "name": "necxis-asign",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-05-17T14:18:57",
+          "updated_at": "2025-05-17T16:27:00",
+          "url": "https://github.com/uzumaki-ak/necxis-asign",
+          "size": 343,
+          "default_branch": "main"
+        },
+        {
+          "name": "old-portfolio",
+          "description": null,
+          "language": "CSS",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2024-12-26T19:08:20",
+          "updated_at": "2024-12-26T19:12:45",
+          "url": "https://github.com/uzumaki-ak/old-portfolio",
+          "size": 2111,
+          "default_branch": "master"
+        },
+        {
+          "name": "Parity-wars",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-03-10T22:23:22",
+          "updated_at": "2025-03-10T22:32:36",
+          "url": "https://github.com/uzumaki-ak/Parity-wars",
+          "size": 73,
+          "default_branch": "main"
+        },
+        {
+          "name": "portfollio",
+          "description": "my 3rd creative portfolio where i used some of my creativeness",
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-03-01T12:32:09",
+          "updated_at": "2025-07-05T08:22:12",
+          "url": "https://github.com/uzumaki-ak/portfollio",
+          "size": 244,
+          "default_branch": "main"
+        },
+        {
+          "name": "rsvp-",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-01-25T10:33:38",
+          "updated_at": "2025-01-25T17:33:04",
+          "url": "https://github.com/uzumaki-ak/rsvp-",
+          "size": 89,
+          "default_branch": "main"
+        },
+        {
+          "name": "SparkSwipe",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-06-21T10:05:28",
+          "updated_at": "2025-06-21T11:46:50",
+          "url": "https://github.com/uzumaki-ak/SparkSwipe",
+          "size": 266,
+          "default_branch": "main"
+        },
+        {
+          "name": "Swadeshi-Scan",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-05-11T08:32:02",
+          "updated_at": "2025-05-11T08:59:20",
+          "url": "https://github.com/uzumaki-ak/Swadeshi-Scan",
+          "size": 608,
+          "default_branch": "main"
+        },
+        {
+          "name": "think-tank",
+          "description": "a blog platform  with admin dashboard and contols made with mern stack ",
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-02-17T14:39:54",
+          "updated_at": "2025-07-05T08:23:04",
+          "url": "https://github.com/uzumaki-ak/think-tank",
+          "size": 4120,
+          "default_branch": "main"
+        },
+        {
+          "name": "ultra-edit-clone",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2024-05-09T19:28:43",
+          "updated_at": "2024-12-24T15:21:58",
+          "url": "https://github.com/uzumaki-ak/ultra-edit-clone",
+          "size": 12,
+          "default_branch": "main"
+        },
+        {
+          "name": "upNexts",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2025-03-12T07:24:46",
+          "updated_at": "2025-03-12T07:43:13",
+          "url": "https://github.com/uzumaki-ak/upNexts",
+          "size": 419,
+          "default_branch": "main"
+        },
+        {
+          "name": "uzumaki-ak",
+          "description": "Config files for my GitHub profile.",
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2024-05-09T18:51:16",
+          "updated_at": "2025-07-06T08:21:52",
+          "url": "https://github.com/uzumaki-ak/uzumaki-ak",
+          "size": 15,
+          "default_branch": "main"
+        },
+        {
+          "name": "working-login-page-",
+          "description": null,
+          "language": "CSS",
+          "stars": 0,
+          "forks": 0,
+          "created_at": "2024-05-09T19:04:16",
+          "updated_at": "2024-12-24T15:22:32",
+          "url": "https://github.com/uzumaki-ak/working-login-page-",
+          "size": 7587,
+          "default_branch": "main"
+        }
+      ],
+      "activity": [
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/family-vaults",
+          "created_at": "2025-07-12T11:55:51",
+          "public": true
+        },
+        {
+          "type": "PullRequestEvent",
+          "repo": "Mohammad-Ehshan/Drishti",
+          "created_at": "2025-07-10T05:27:50",
+          "public": true
+        },
+        {
+          "type": "CreateEvent",
+          "repo": "uzumaki-ak/Drishti-2",
+          "created_at": "2025-07-10T05:10:56",
+          "public": true
+        },
+        {
+          "type": "ForkEvent",
+          "repo": "Mohammad-Ehshan/Drishti",
+          "created_at": "2025-07-09T19:50:56",
+          "public": true
+        },
+        {
+          "type": "PullRequestEvent",
+          "repo": "Mohammad-Ehshan/Drishti",
+          "created_at": "2025-07-09T19:34:43",
+          "public": true
+        },
+        {
+          "type": "CreateEvent",
+          "repo": "Mohammad-Ehshan/Drishti",
+          "created_at": "2025-07-09T19:32:58",
+          "public": true
+        },
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/agentic-ai",
+          "created_at": "2025-07-09T09:20:08",
+          "public": true
+        },
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/agentic-ai",
+          "created_at": "2025-07-09T09:18:15",
+          "public": true
+        },
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/agentic-ai",
+          "created_at": "2025-07-09T09:15:20",
+          "public": true
+        },
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/dharika-assign",
+          "created_at": "2025-07-06T18:41:05",
+          "public": true
+        },
+        {
+          "type": "CreateEvent",
+          "repo": "uzumaki-ak/dharika-assign",
+          "created_at": "2025-07-06T18:29:24",
+          "public": true
+        },
+        {
+          "type": "CreateEvent",
+          "repo": "uzumaki-ak/dharika-assign",
+          "created_at": "2025-07-06T18:26:38",
+          "public": true
+        },
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/assignmnt-moksh",
+          "created_at": "2025-07-06T09:25:47",
+          "public": true
+        },
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/uzumaki-ak",
+          "created_at": "2025-07-06T08:21:50",
+          "public": true
+        },
+        {
+          "type": "MemberEvent",
+          "repo": "elite-coders-xyz/FitZone-Gym-Fitness-Website",
+          "created_at": "2025-07-05T14:32:42",
+          "public": true
+        },
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/fin-genies",
+          "created_at": "2025-07-05T08:24:49",
+          "public": true
+        },
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/digisys-assign",
+          "created_at": "2025-07-05T07:50:39",
+          "public": true
+        },
+        {
+          "type": "PushEvent",
+          "repo": "uzumaki-ak/digisys-assign",
+          "created_at": "2025-07-05T07:42:17",
+          "public": true
+        },
+        {
+          "type": "WatchEvent",
+          "repo": "juspay/hyperswitch",
+          "created_at": "2025-07-03T18:20:22",
+          "public": true
+        },
+        {
+          "type": "CreateEvent",
+          "repo": "uzumaki-ak/schedual-ai",
+          "created_at": "2025-06-28T21:59:48",
+          "public": true
+        }
+      ],
+      "commits": [
+        {
+          "message": "logo and home responsiveness",
+          "repo": "-Reframe",
+          "date": "2025-06-28T04:04:42",
+          "sha": "0494ebb4"
+        },
+        {
+          "message": "comment-fix",
+          "repo": "-Reframe",
+          "date": "2025-06-28T03:19:02",
+          "sha": "051a96c3"
+        },
+        {
+          "message": "pck.json",
+          "repo": "-Reframe",
+          "date": "2025-06-13T06:47:15",
+          "sha": "6375fb3a"
+        },
+        {
+          "message": "first",
+          "repo": "-Reframe",
+          "date": "2025-05-27T13:45:36",
+          "sha": "44e97c92"
+        },
+        {
+          "message": "voye-route",
+          "repo": "-Reframe",
+          "date": "2025-05-27T13:32:24",
+          "sha": "5c6e13a5"
+        },
+        {
+          "message": "schema",
+          "repo": "-Reframe",
+          "date": "2025-05-27T11:52:41",
+          "sha": "94fdbb01"
+        },
+        {
+          "message": "Regenerate Prisma client",
+          "repo": "-Reframe",
+          "date": "2025-05-27T11:23:34",
+          "sha": "a8e3e5d9"
+        },
+        {
+          "message": "Create README.md",
+          "repo": "-Reframe",
+          "date": "2025-05-27T10:52:34",
+          "sha": "4e506c40"
+        },
+        {
+          "message": "first commit",
+          "repo": "-Reframe",
+          "date": "2025-05-27T10:46:05",
+          "sha": "b67d667f"
+        },
+        {
+          "message": "first commit",
+          "repo": "-Reframe",
+          "date": "2025-05-27T10:42:21",
+          "sha": "474aaae5"
+        },
+        {
+          "message": "updated packagess",
+          "repo": "agentic-ai",
+          "date": "2025-07-09T09:19:59",
+          "sha": "28a15663"
+        },
+        {
+          "message": "deleted images",
+          "repo": "agentic-ai",
+          "date": "2025-07-09T09:18:04",
+          "sha": "780ccd1d"
+        },
+        {
+          "message": "updated and deleted things",
+          "repo": "agentic-ai",
+          "date": "2025-07-09T09:15:03",
+          "sha": "1ee4a95c"
+        },
+        {
+          "message": "lost and found",
+          "repo": "agentic-ai",
+          "date": "2025-07-09T09:11:16",
+          "sha": "f0cbda1f"
+        },
+        {
+          "message": "first commit",
+          "repo": "agentic-ai",
+          "date": "2025-07-08T10:17:56",
+          "sha": "33c5747e"
+        },
+        {
+          "message": "chat limit",
+          "repo": "assignmnt-moksh",
+          "date": "2025-07-06T09:25:27",
+          "sha": "4aa4c1e3"
+        },
+        {
+          "message": "chat limit",
+          "repo": "assignmnt-moksh",
+          "date": "2025-07-06T09:23:44",
+          "sha": "655fcbe3"
+        },
+        {
+          "message": "Update README.md",
+          "repo": "assignmnt-moksh",
+          "date": "2025-06-05T09:45:45",
+          "sha": "763d114e"
+        },
+        {
+          "message": "Create README.md",
+          "repo": "assignmnt-moksh",
+          "date": "2025-06-05T09:41:57",
+          "sha": "f46d8811"
+        },
+        {
+          "message": "first commit",
+          "repo": "assignmnt-moksh",
+          "date": "2025-06-05T09:24:09",
+          "sha": "87c51269"
+        },
+        {
+          "message": "Update README.md",
+          "repo": "Avinya-AstraX",
+          "date": "2025-04-06T06:35:57",
+          "sha": "7f68a111"
+        },
+        {
+          "message": "Update README.md",
+          "repo": "Avinya-AstraX",
+          "date": "2025-04-06T06:33:57",
+          "sha": "df3aac79"
+        },
+        {
+          "message": "Update README.md",
+          "repo": "Avinya-AstraX",
+          "date": "2025-04-06T06:33:43",
+          "sha": "7bee461b"
+        },
+        {
+          "message": "Update README.md",
+          "repo": "Avinya-AstraX",
+          "date": "2025-04-06T06:32:10",
+          "sha": "e02ce4ac"
+        },
+        {
+          "message": "changes",
+          "repo": "Avinya-AstraX",
+          "date": "2025-04-06T06:26:05",
+          "sha": "3779df6b"
+        },
+        {
+          "message": "adding new features",
+          "repo": "Avinya-AstraX",
+          "date": "2025-04-06T06:22:28",
+          "sha": "d2f50cf3"
+        },
+        {
+          "message": "frontend setup",
+          "repo": "Avinya-AstraX",
+          "date": "2025-04-05T15:03:46",
+          "sha": "03ebc1be"
+        },
+        {
+          "message": "first commit",
+          "repo": "Avinya-AstraX",
+          "date": "2025-04-05T06:56:16",
+          "sha": "6828c3d9"
+        },
+        {
+          "message": "chnged img icon",
+          "repo": "blogss",
+          "date": "2025-02-18T09:50:35",
+          "sha": "d09f18ef"
+        },
+        {
+          "message": "chnged icon",
+          "repo": "blogss",
+          "date": "2025-02-18T09:45:46",
+          "sha": "e27a56a4"
+        },
+        {
+          "message": "changes logos",
+          "repo": "blogss",
+          "date": "2025-02-18T09:31:51",
+          "sha": "c501a921"
+        },
+        {
+          "message": "first commit",
+          "repo": "blogss",
+          "date": "2025-02-17T21:34:00",
+          "sha": "45807cf1"
+        }
+      ],
+      "scraped_at": "2025-07-17T12:48:43.221565",
+      "total_items": 68,
+      "method": "api"
+    }
+  },
+  "ai_analysis": {
+    "warning": "No content available for AI analysis"
+  },
+  "summary": {
+    "platforms_analyzed": 1,
+    "total_content_items": 0,
+    "ai_models_used": [
+      "warning"
+    ]
+  }
+}

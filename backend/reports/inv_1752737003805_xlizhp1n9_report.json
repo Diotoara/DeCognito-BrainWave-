@@ -1,0 +1,26 @@
+{
+  "investigation_id": "inv_1752737003805_xlizhp1n9",
+  "generated_at": "2025-07-17T12:53:38.638909",
+  "platform_results": {
+    "twitter": {
+      "platform": "twitter",
+      "user_info": {
+        "username": "elonmusk",
+        "platform": "twitter",
+        "scraped_method": "fallback"
+      },
+      "tweets": [],
+      "scraped_at": "2025-07-17T12:53:38.631486"
+    }
+  },
+  "ai_analysis": {
+    "warning": "No content available for AI analysis"
+  },
+  "summary": {
+    "platforms_analyzed": 1,
+    "total_content_items": 0,
+    "ai_models_used": [
+      "warning"
+    ]
+  }
+}
